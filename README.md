@@ -6,10 +6,10 @@ This repository contains a project developed in React Native, it is an applicati
 
 -Demo
 
-![Alt text](imgs/appVideogif.gif?raw=true "Main Display")|
+![Alt text](imgs/appVideogif.gif)
 
 -Screenshots
 
-![Alt text](imgs/initApp.jpg4?raw=true "Main Display")
+![Alt text](imgs/initApp.jpg4)
 
-![Alt text](imgs/resultsApp.jpg?raw=true "Main Display")
+![Alt text](imgs/resultsApp.jpg)
